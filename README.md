@@ -1,1 +1,3 @@
 # Mosaic-Sim
+
+A framework for simulating cone photoreceptor mosaic formation in vertabrate species that undergo a transition from a hexagonal mosaic to a square mosaic. MosaicSim.py reads an image from the Images directory and uses it as an initial condition for the simulation. The .csv files contain summaries of results produced from running many thousands of simulations on an HPC cluster. Read "Honours Thesis - James Magraken.pdf" for details.
